@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Interface</string>
+    <string name="unsubscribe">取消关注</string>
+    <string name="up_post">%1$s的动态</string>
+    <string name="fans_number">粉丝数：%1$s</string>
+    <string name="fans">粉丝数：</string>
+</resources>
